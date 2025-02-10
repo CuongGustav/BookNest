@@ -1,0 +1,76 @@
+.hero__padding {
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.hero__content {
+    z-index: 9;
+}
+
+@media only screen and (max-width: 767px) {
+    .hero__content {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .hero__content form {
+        display: inline-block;
+    }
+}
+
+.hero__content form input{
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 2px 0px 15px 5px rgba(1, 6, 33, 0.06);
+    padding: 15px 15px;
+    width: 300px;
+}
+.hero__content form input:focus {
+    outline: none;
+}
+
+@media only screen and (max-width: 991px) {
+    .hero__content form input {
+        width: 250px;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .hero__content form input {
+        width: auto;
+    }
+}
+/* hero__image and hero--badge*/
+.hero__images{
+    position: relative ;
+}
+.hero__images--badge{
+    position: absolute;
+    bottom: 20%;
+    right: 65%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #c27b7f;
+    color: #fff;
+    font-weight: 550;
+    animation: moveTopToBottom 2s ease-in-out infinite alternate;
+
+}
+.hero__images--badge>span{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    gap: 0px;
+}
+.hero__image--badge--text1,
+.hero__image--badge--text2{
+    font-size: 36px;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+}
+.hero__image--badge--text2{
+    font-size: 16px;
+}

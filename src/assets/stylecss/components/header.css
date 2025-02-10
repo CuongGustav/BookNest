@@ -70,6 +70,7 @@
     transform: rotate(0deg);
     transition: 0.25s ease-in-out;
 }
+/*button navbar-toggler*/
 .header .navbar-toggler span:nth-child(even){
     left: 50%;
     border-radius: 0 9px 9px 0;
@@ -136,6 +137,7 @@
     opacity: 1;
     left: calc(50% - 4px);
 }
+/*nav-item & a:after*/
 .menu>.nav-item{
     position: relative;
     transition:  all 0.2s linear;

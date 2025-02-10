@@ -41,7 +41,7 @@ const Header = ({header}) => {
                                 <li className='nav-item' key={i}>  
                                     <Link
                                         activeClass='active'
-                                        className='benefits nav-link'
+                                        className='nav-link'
                                         // to={data.link}  // Không cần `${}`
                                         to={`${data.link}`}
                                         spy={true}
