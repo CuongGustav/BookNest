@@ -131,7 +131,7 @@ body {
 }
 /*achieve*/
 [classs*='section-title-'] {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 [classs*='section-title-'] span {
     text-transform: uppercase;
