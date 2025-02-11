@@ -1,0 +1,34 @@
+{
+    "achieve": {
+        "subtitle": "WHY WONTED?",
+        "title": "What you'll achieve by this book",
+        "image": "assets/images/achive2.jpg",
+        "achieveItem": [
+            {
+                "id": 1,
+                "icon": "assets/icons/ebook.svg",
+                "title": "Experience",
+                "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor fugit piatur"
+            },
+            {
+                "id": 1,
+                "icon": "assets/icons/dice-multiple.svg",
+                "title": "Motivation",
+                "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor fugit piatur"
+            },
+            {
+                "id": 1,
+                "icon": "assets/icons/goal.svg",
+                "title": "Goals",
+                "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor fugit piatur"
+            },
+            {
+                "id": 1,
+                "icon": "assets/icons/brand-target.svg",
+                "title": "Vision",
+                "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor fugit piatur"
+            }
+        ]
+    }
+    
+}

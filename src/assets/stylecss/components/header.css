@@ -11,7 +11,7 @@
     box-shadow: 0 2px rgba(1, 6, 33, 0.06);
     animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
 }
-.header.header.navbar_fixed .navbar {
+.header.navbar_fixed .navbar {
     margin-top: 0px;
 }
 .header .navbar{

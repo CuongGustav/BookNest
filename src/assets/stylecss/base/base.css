@@ -45,7 +45,7 @@ body {
     font-weight: 600;
     display: inline-block;
 }
-
+/*hero*/
 .button {
     pointer-events: auto;
     cursor: pointer;
@@ -128,4 +128,61 @@ body {
     bottom: 100px;
     transform: scale(0.8);
     animation:  movecircles 50s linear infinite;
+}
+/*achieve*/
+[classs*='section-title-'] {
+    margin-bottom: 20px;
+}
+[classs*='section-title-'] span {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #c27b7f;
+    font-weight: 600;
+    display: inline-block;
+}
+[classs*='section-title-'] h2 {
+    margin-top: 0px;
+}
+.section-title-center p{
+    margin: 0 autro;
+}
+.section-divider {
+    margin-top: 20px;
+}
+.divider-traingle{
+    width: 200px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #c27b7f;
+    opacity: 0.4;
+    position: relative;
+    display: inline-block;
+}
+.divider-traingle::before {
+    position: absolute;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-color: #c27b7f;
+    top: -9px;
+    opacity: 0.4;
+    right: 50%;
+    transform: rotate(45deg);
+}
+.divider-traingle::after{
+    position: absolute;
+    content: '';
+    width: 18px;
+    height: 18px;
+    background-color: #c27b7f;
+    left: 45%;
+    top: -9px;
+    opacity: 0.4;
+    transform: rotate(-45deg);
+}
+.translateEffect2{
+    transition:  all 0.3s;
+}
+.translateEffect2:hover{
+    transform: translateY(-5px);
 }

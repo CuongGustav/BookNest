@@ -20,6 +20,7 @@ function SubscribeForm () {
 }
 const Hero = ({isBg}) => {
     const { herov1 } = data;
+    const MAILCHIMP_URL = "https://your-mailchimp-url.usX.list-manage.com/subscribe/post?u=XXXXXXX&id=YYYYYY";
     return (
        <section id='hero' className={`hero hero__padding overflow-hidden position-relative
                             ${isBg === "yes" ? "bg-one" : ""}`}>
@@ -37,7 +38,7 @@ const Hero = ({isBg}) => {
                             </div>
                             <h1 className="display-4 mb-4 text-capitalize">{herov1.title}</h1>
                             <p className="text-muted mb-5 fs-5">{herov1.description}</p>
-                            <MailchimpSubscribe
+                            <MailchimpSubscribe url={MAILCHIMP_URL}
                                 render={({ subscribe, status, message}) => (
                                     <SubscribeForm
                                         status={status}
