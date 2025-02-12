@@ -1,0 +1,37 @@
+{
+    "aboutv2":{
+        "title": "Learn about the book writer",
+        "subtitle": "ABOUT AUTHOR",
+        "image": "assets/images/achive.png",
+        "videoURL": "https://www.youtube.com/watch?v=ksImBkJNQt8",
+        "description": "Based on wikipedia, Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "userinfo":[
+            {
+                "title": "Name:",
+                "subtitle": "Jacob Thomas"
+            },
+            {
+                "title": "Born:",
+                "subtitle": "05. 16. 1992"
+            }, 
+            {
+                "title": "Country:",
+                "subtitle": "Viet Nam"
+            },
+            {
+                "title": "Email ID:",
+                "subtitle": "infor@wonted.com"
+            },
+            {
+                "title": "Languages:",
+                "subtitle": "English, Vietnamese, Japanese"
+            },
+            {
+                "title": "Address:",
+                "subtitle": "K58/10 Ngô Sỹ Liên, Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng"
+            }
+
+        ]
+    }
+    
+}

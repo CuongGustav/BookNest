@@ -25,7 +25,23 @@
     0%{
         bottom: 25%;
     }
+    50%{
+        bottom: 22.5%;
+    }
     100%{
         bottom: 20%;
+    }
+}
+@keyframes waves {
+    0%{
+        transform:  scale(0.2, 0.2);
+        opacity: 0;
+    }
+    50%{
+        opacity: 0.9;
+    }
+    100%{
+        transform: scale(0.9);
+        opacity: 0;
     }
 }

@@ -239,3 +239,113 @@ body {
 .button__secondary.btn-small {
     padding: 4px 20px;
 }
+.limk {
+    font-weight: 600;
+    position: relative;
+    color: #c27b7f;
+    transition: all 0.4s ease-in-out;
+    display:  flex;
+    align-items: center;
+}
+.link svg {
+    position: relative;
+    margin-left: 4px;
+    font-size: 20px;
+    transition: all 0.4s ease-in-out;
+}
+.link:hover{
+    color: #876585;
+}
+.limk:hover svg {
+    margin-left: 6px;
+}
+.social-icon {
+    padding-left: 0;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.social-icon li {
+    list-style-type: none;
+}
+.social-icon li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: #c27b7f;
+    color: #fff;
+    transition: all 0.5s;
+    box-shadow: 3px 3px #876585;
+}
+.social-icon li a:hover {
+    background-color: #876585;
+    box-shadow: none;
+}
+@media screen and (max-width: 320px) {
+    .social-icon li a{
+        width: 30px;
+        height: 30px;
+    }
+}
+.social-icon li a svg {
+    font-size: 20px;
+}
+@media screen and (max-width:320px) {
+    .social-icon li a svg {
+        font-size: 15px;
+    }
+}
+.video-btn{
+    border: none;
+    height: 70px;
+    width: 70px;
+    line-height: 80px;
+    text-align: center;
+    color: #876585;
+    background-color: #fff;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px;
+    margin-top: -50px;
+    z-index: 99;
+    padding-left: 5px;
+    box-shadow: 0 0 30px rgba(1, 6, 33, 0.06);
+}
+.video-btn:hover {
+    color: #c27b7f;
+}
+.waves-block {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    opacity: 0;
+    border-radius: 100%;
+    animation: waves 4s ease-in-out infinite;
+    left: 50%;
+    top: 50%;
+    margin-left: -65px;
+    margin-right: -65px;
+    z-index: 3;
+}
+.waves-block .waves-1 {
+    animation-delay: 0s;
+}
+.waves-block .waves-2{
+    animation-delay: 1s;
+}
+.waves-block .waves-3{
+    animation-delay: 2s;
+}
