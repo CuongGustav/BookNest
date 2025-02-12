@@ -3,6 +3,7 @@ import Header from '../global/Header';
 import Hero from '../hero';
 import Achieve from '../achieve';
 import Chapter from '../chapter';
+import Chapterpreview from '../chapter-preview';
 
 const MainPage = ({ header }) => {
     return(
@@ -11,6 +12,7 @@ const MainPage = ({ header }) => {
             <Hero isBg='yes'/>
             <Achieve isBg=''/>
             <Chapter isBg='yes'/>
+            <Chapterpreview isBg=''/>
         </>
     )
 }

@@ -6,4 +6,5 @@
 @import './components/header.css';
 @import './components/hero.css';
 @import './components/achieve.css';
-@import './components/chapter.css'
+@import './components/chapter.css';
+@import './components/chapter-preview.css'

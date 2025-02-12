@@ -130,17 +130,17 @@ body {
     animation:  movecircles 50s linear infinite;
 }
 /*achieve*/
-[classs*='section-title-'] {
+[class*='section-title-'] {
     margin-bottom: 50px;
 }
-[classs*='section-title-'] span {
+[class*='section-title-'] span {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #c27b7f;
     font-weight: 600;
     display: inline-block;
 }
-[classs*='section-title-'] h2 {
+[class*='section-title-'] h2 {
     margin-top: 0px;
 }
 .section-title-center p{

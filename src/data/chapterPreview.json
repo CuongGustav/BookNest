@@ -1,0 +1,85 @@
+{
+    "chapterPreview":{
+        "title": "Chapter Preview",
+        "subtitle": "Read some chapter free",
+        "chapters":[
+            {
+                "image":"/assets/images/chapter-preview/1.jpg",
+                "title": "The Beginning",
+                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
+                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+            },
+            {
+                "image":"/assets/images/chapter-preview/2.jpg",
+                "title": "Main Story",
+                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
+                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+            },
+            {
+                "image":"/assets/images/chapter-preview/3.jpg",
+                "title": "Story Part-03",
+                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
+                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+            },
+            {
+                "image":"/assets/images/chapter-preview/4.jpg",
+                "title": "Description Part-04",
+                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
+                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+            },
+            {
+                "image":"/assets/images/chapter-preview/5.jpg",
+                "title": "Story No:05",
+                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
+                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
+                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+            }
+        ]
+    },
+    "chapterPreview2": {
+        "title": "Chapter Preview",
+        "subtitle": "Read some chapter free",
+        "chapters": [
+            {
+                "title": "Chapter 1",
+                "image": "/assets/images/chapter-preview/1.jpg"
+            },
+            {
+                "title": "Chapter 2",
+                "image": "/assets/images/chapter-preview/2.jpg"
+            },
+            {
+                "title": "Chapter 3",
+                "image": "/assets/images/chapter-preview/3.jpg"
+            },
+            {
+                "title": "Chapter 4",
+                "image": "/assets/images/chapter-preview/4.jpg"
+            },
+            {
+                "title": "Chapter 5",
+                "image": "/assets/images/chapter-preview/5.jpg"
+            }
+
+        ]
+    }
+        
+            
+   
+
+
+}
