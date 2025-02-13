@@ -11,6 +11,7 @@ import Funfacts from '../fun-fact';
 import Books from '../books';
 import Review from '../review';
 import Testimonial from '../testimonial';
+import WatchVideo from '../watchvideo';
 
 const MainPage = ({ header }) => {
     return(
@@ -27,6 +28,7 @@ const MainPage = ({ header }) => {
             <Books isBg='yes'/>
             <Review isBg=''/>
             <Testimonial isBg='yes'/>
+            <WatchVideo isBg=''/>
         </>
     )
 }

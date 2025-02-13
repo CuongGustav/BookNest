@@ -48,7 +48,6 @@ const Author = ({isBg}) => {
                                             <div className='waves wave-2'></div>
                                             <div className='waves wave-3'></div>
                                         </div>
-                                        
                                     </div>
                                 </>
                             )}
