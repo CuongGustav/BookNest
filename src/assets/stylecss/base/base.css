@@ -349,3 +349,10 @@ body {
 .waves-block .waves-3{
     animation-delay: 2s;
 }
+/*translateEffect1*/
+.translateEffect1{
+    transition: all 0.3s;
+}
+.translateEffect1:hover{
+    transform: translateY(-10px);
+}
