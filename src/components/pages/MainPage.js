@@ -8,6 +8,7 @@ import Pricing from '../pricing';
 import Author from '../author';
 import Achievement from '../achievement';
 import Funfacts from '../fun-fact';
+import Books from '../books';
 
 const MainPage = ({ header }) => {
     return(
@@ -21,6 +22,7 @@ const MainPage = ({ header }) => {
             <Author isBg=''/>
             <Achievement isBg='yes'/>
             <Funfacts isBg=''/>
+            <Books isBg='yes'/>
         </>
     )
 }
