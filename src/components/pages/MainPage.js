@@ -10,6 +10,7 @@ import Achievement from '../achievement';
 import Funfacts from '../fun-fact';
 import Books from '../books';
 import Review from '../review';
+import Testimonial from '../testimonial';
 
 const MainPage = ({ header }) => {
     return(
@@ -25,6 +26,7 @@ const MainPage = ({ header }) => {
             <Funfacts isBg=''/>
             <Books isBg='yes'/>
             <Review isBg=''/>
+            <Testimonial isBg='yes'/>
         </>
     )
 }

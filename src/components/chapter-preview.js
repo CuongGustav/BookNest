@@ -5,6 +5,7 @@ import 'swiper/css/autoplay'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import data from '../data/chapterPreview.json'
 import { Autoplay, Pagination } from 'swiper/modules';
+import "swiper/css/pagination"
 const Chapterpreview = ({isBg}) => {
     const {chapterPreview} = data;
     useEffect(() => {
