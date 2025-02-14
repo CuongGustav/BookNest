@@ -12,6 +12,7 @@ import Books from '../books';
 import Review from '../review';
 import Testimonial from '../testimonial';
 import WatchVideo from '../watchvideo';
+import Contact from '../contact';
 
 const MainPage = ({ header }) => {
     return(
@@ -29,6 +30,7 @@ const MainPage = ({ header }) => {
             <Review isBg=''/>
             <Testimonial isBg='yes'/>
             <WatchVideo isBg=''/>
+            <Contact isBg=''/>
         </>
     )
 }
