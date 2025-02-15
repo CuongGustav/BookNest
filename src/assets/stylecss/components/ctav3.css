@@ -1,0 +1,23 @@
+.ctav3__content {
+    text-align: center;
+    position: relative;
+}
+.ctav3__content h4{
+    line-height: 1.5;
+}
+.ctav3__content h2 a{
+    color: #c27b7f;
+}
+.ctav3__content h2 a:hover{
+    color: #876585;
+}
+.ctav3__content__icon{
+    position: relative;
+    top:50%;
+    transform: translate(50%, -50%);
+}
+.ctav3__content__icon svg{
+    opacity: 0.3;
+    color: #c27b7f;
+    font-size: 150px;
+}

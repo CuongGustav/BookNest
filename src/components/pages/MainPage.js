@@ -13,8 +13,10 @@ import Review from '../review';
 import Testimonial from '../testimonial';
 import WatchVideo from '../watchvideo';
 import Contact from '../contact';
+import Footer from '../global/Footer';
 
-const MainPage = ({ header }) => {
+const MainPage = ({ header, footer }) => {
+    const {menu} = footer;
     return(
         <>
             <Header header={header}/>
@@ -31,6 +33,7 @@ const MainPage = ({ header }) => {
             <Testimonial isBg='yes'/>
             <WatchVideo isBg=''/>
             <Contact isBg=''/>
+            <Footer isBg='yes' menu={menu}/>
         </>
     )
 }
