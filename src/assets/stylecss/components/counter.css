@@ -28,6 +28,7 @@
     box-shadow: 5px 5px #876585;
     overflow: hidden;
     transform: all 0.3s;
+    border-radius: 12px;
 }
 .counters__starts-box:hover{
     box-shadow: none;
@@ -44,8 +45,8 @@
 }
 .counters__starts-icon {
     position: absolute;
-    top: -10px;
-    right: -10px;
+    top: 20px;
+    right: 20px;
     opacity: 0.3;
 }
 .counters__starts-icon svg{

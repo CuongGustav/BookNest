@@ -1,0 +1,13 @@
+.chapter-img{
+    border-top-left-radius:20px ;
+    border-bottom-right-radius:20px ;
+}
+.previewChapterP {
+    text-align: justify;
+}
+@media only screen and (max-width : 767px){
+    .previewChapterP{
+        color: orange !important;
+        text-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+    }
+}

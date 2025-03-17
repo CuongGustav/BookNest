@@ -28,7 +28,7 @@ const Achievement = ({isBg}) => {
                                 <div className='row row-cols-2'>
                                     <div className='col mt-0'>
                                         <img
-                                            className='img-fluid'
+                                            className='img-fluid achievement__img'
                                             src={data.image}
                                             alt={data.title}
                                         />
@@ -36,17 +36,17 @@ const Achievement = ({isBg}) => {
                                     <div className='col mt-0'>
                                         <div className='achievement__content'>
                                             <div className='achievement__content__icon'>
-                                                <img
-                                                    className='img-fluid'
-                                                    src={achievements.icon}
-                                                    alt='icon'
-                                                    width='80'
-                                                    height='80'
-                                                />
-                                                <div>
-                                                    <h3>{data.title}</h3>
-                                                    <p>{data.description}</p>
-                                                </div>
+                                            <img
+                                                className="img-fluid"
+                                                src={achievements.icon}
+                                                alt="icon"
+                                                width="60"
+                                                height="60"
+                                            />
+                                            </div>
+                                            <div className='achievement__content__titdesc'>
+                                                <h3>{data.title}</h3>
+                                                <p>{data.description}</p>
                                             </div>
 
                                         </div>

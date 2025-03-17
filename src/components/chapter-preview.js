@@ -63,12 +63,12 @@ const Chapterpreview = ({isBg}) => {
                                         />
                                     </a>
                                     <div className={`glightbox-desc custom-desc${i}`}>
-                                        <h3 className='mb-4 text-center'>{data.title}</h3>
-                                        <p className='first-letter'>{data.text1}</p>
-                                        <p>{data.text2}</p>
-                                        <p>{data.text3}</p>
-                                        <p>{data.text4}</p>
-                                        <p>{data.text5}</p>
+                                        <h3 className='mb-4 text-center previewChapterP'>{data.title}</h3>
+                                        <p className='first-letter previewChapterP'>{data.text1}</p>
+                                        <p className='previewChapterP'>{data.text2}</p>
+                                        <p className='previewChapterP'>{data.text3}</p>
+                                        <p className='previewChapterP'>{data.text4}</p>
+                                        <p className='previewChapterP'>{data.text5}</p>
 
                                     </div>
                                 </div>

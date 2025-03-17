@@ -1,7 +1,22 @@
-.achievement__item{
-    box-shadow: 5px 5px #876585;
-    background-color: #f5ebe6;
+.achievement__content{
+    display: flex;
+    flex-direction: row;
+    position:relative;
 }
+.achievement__content__icon{
+    z-index: 1;
+    position: absolute;
+    right: 0;
+    top:4px;
+    opacity: 0.6;
+}
+.achievement__content__titdesc{
+    margin-top: 25px;
+    padding-right: 4px;
+}
+.bg-one .achievement__item{
+    background-color: #fff;
+} 
 .achievement .card {
     box-shadow: 2px 0px 15px 5px rgba(1,6,33,0.06);
     border: none;
@@ -9,20 +24,15 @@
 .achievement .card:hover{
     box-shadow: 4px 0px 15px 5px rgba(1,6,33,0.06);
 }
-.achievement__content{
-    position: relative;
-    /* overflow: hidden; */
-    padding: 20px 10px 10px 0px;
+.achievement__item{
+    box-shadow: 5px 5px #876585;
+    background-color: #f5ebe6;
 }
-.achievement__content__icon{
-    position: absolute;
-    opacity: 0.3;
-    top: 0;
-    right: 0;
+.achievement__content__img{
+    display: block;
 }
-.achievement__content h3{
-    margin-bottom: 20px;
-}
-.bg-one .achievement__item{
-    background-color: #fff;
+.achievement__img {
+    width: auto; 
+    height: 100%; 
+    object-fit: cover; 
 }
