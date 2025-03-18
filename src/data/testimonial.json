@@ -1,46 +1,44 @@
 {
     "testimonial": {
-        "title": "What people said about my books",
+        "title": "What Readers Are Saying About My Books",
         "subtitle": "TESTIMONIALS",
         "testimonialItem": [
             {
                 "id": 1,
-                "name": "Brightlight books",
-                "title": "Ubold Customer",
+                "name": "Emily Carter",
+                "title": "Avid Reader",
                 "image": "assets/images/user-2.png",
-                "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor neque molestiae distinctio, voluptatum suscipit in, reiciendis, dolores enim optio corporis maxime impedit rerum iure illum quae iusto obcaecati quod laboriosam?"
+                "description": "An absolutely captivating read! The plot twists kept me hooked until the very end."
             },
             {
                 "id": 2,
-                "name": "Brightlight books",
-                "title": "Ubold Customer",
+                "name": "Michael Thompson",
+                "title": "Book Enthusiast",
                 "image": "assets/images/user-1.png",
-                "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor neque molestiae distinctio, voluptatum suscipit in, reiciendis, dolores enim optio corporis maxime impedit rerum iure illum quae iusto obcaecati quod laboriosam?"
+                "description": "A literary masterpiece! The writing style is so immersive, and the characters feel real."
             },
             {
                 "id": 3,
-                "name": "Brightlight books",
-                "title": "Ubold Customer",
+                "name": "Sophia Martinez",
+                "title": "Verified Buyer",
                 "image": "assets/images/user-2.png",
-                "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor neque molestiae distinctio, voluptatum suscipit in, reiciendis, dolores enim optio corporis maxime impedit rerum iure illum quae iusto obcaecati quod laboriosam?"
+                "description": "I couldn't put it down! Every chapter left me wanting more. Highly recommend!"
             },
             {
                 "id": 4,
-                "name": "Brightlight books",
-                "title": "Ubold Customer",
+                "name": "Daniel Roberts",
+                "title": "Author & Reviewer",
                 "image": "assets/images/user-1.png",
-                "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor neque molestiae distinctio, voluptatum suscipit in, reiciendis, dolores enim optio corporis maxime impedit rerum iure illum quae iusto obcaecati quod laboriosam?"
+
+                "description": "This book is a game-changer! The way the author weaves the plot, develops the characters, and delivers such powerful emotions is truly remarkable. It kept me engaged from the first page to the last. Highly recommended!"
             },
             {
                 "id": 5,
-                "name": "Brightlight books",
-                "title": "Ubold Customer",
+                "name": "Olivia Brown",
+                "title": "Casual Reader",
                 "image": "assets/images/user-2.png",
-                "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor neque molestiae distinctio, voluptatum suscipit in, reiciendis, dolores enim optio corporis maxime impedit rerum iure illum quae iusto obcaecati quod laboriosam?"
+                "description": "A book that stays with you long after you've finished reading it. Simply brilliant!"
             }
         ]
     }
 }
-        
-        
-    

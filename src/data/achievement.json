@@ -1,48 +1,45 @@
 {
     "achievements": {
         "title": "Achievements",
-        "subtitle": "Honor & Awards Achieved",
+        "subtitle": "Honors & Awards Received",
         "icon": "assets/icons/award.svg",
         "awards": [
             {
                 "id": 1,
                 "title": "Nominated",
-                "image":"assets/images/awards/1.jpg",
-                "description": "International Thriller Writers Award for Best Novel (These Toxic Things)."
+                "image": "assets/images/awards/1.jpg",
+                "description": "Nominated for the International Thriller Writers Award for Best Novel (These Toxic Things)."
             },
             {
                 "id": 2,
                 "title": "Winner",
-                "image":"assets/images/awards/2.jpg",
-                "description": "International Thriller Writers Award for Best Novel (These Toxic Things)."
+                "image": "assets/images/awards/2.jpg",
+                "description": "Winner of the International Thriller Writers Award for Best Novel (These Toxic Things)."
             },
             {
                 "id": 3,
                 "title": "Runner-Up",
-                "image":"assets/images/awards/3.jpg",
-                "description": "International Thriller Writers Award for Best Novel (These Toxic Things)."
+                "image": "assets/images/awards/3.jpg",
+                "description": "Runner-up for the International Thriller Writers Award for Best Novel (These Toxic Things)."
             },
             {
                 "id": 4,
                 "title": "Honorable Mention",
-                "image":"assets/images/awards/4.jpg",
-                "description": "International Thriller Writers Award for Best Novel (These Toxic Things)."
+                "image": "assets/images/awards/4.jpg",
+                "description": "Received an Honorable Mention in the International Thriller Writers Award for Best Novel (These Toxic Things)."
             },
             {
                 "id": 5,
                 "title": "Nominated",
-                "image":"assets/images/awards/5.jpg",
-                "description": "International Thriller Writers Award for Best Novel (These Toxic Things)."
+                "image": "assets/images/awards/5.jpg",
+                "description": "Nominated again for the International Thriller Writers Award for Best Novel (These Toxic Things)."
             },
             {
                 "id": 6,
                 "title": "Winner",
-                "image":"assets/images/awards/1.jpg",
-                "description": "International Thriller Writers Award for Best Novel (These Toxic Things)."
+                "image": "assets/images/awards/1.jpg",
+                "description": "Awarded the International Thriller Writers Award for Best Novel (These Toxic Things)."
             }
         ]
-    
-    
-
-    } 
+    }
 }

@@ -50,7 +50,7 @@ const Testimonial = ({isBg}) => {
                                                         <path d="M9 8c-1.1 0-2 .9-2 2 0 1.1.9 2 2 2H8c-1.1 0-2 .9-2 2v2h4v-2c0-1.1-.9-2-2-2h1c1.1 0 2-.9 2-2 0-1.1-.9-2-2-2Zm6 0c-1.1 0-2 .9-2 2 0 1.1.9 2 2 2h-1c-1.1 0-2 .9-2 2v2h4v-2c0-1.1-.9-2-2-2h1c1.1 0 2-.9 2-2 0-1.1-.9-2-2-2Z"/>
                                                     </svg>
                                                 </div>
-                                                <p className='my-4'>{data.description}</p>
+                                                <p className='my-4 testi-card__comment'>{data.description}</p>
                                                 <div className='testi-card__user-info pt-4'>
                                                     <div className='testimonial__user-info__image'>
                                                         <img src={data.image} alt={data.title}/>

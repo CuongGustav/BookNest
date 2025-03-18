@@ -1,11 +1,10 @@
 {
     "ctav4": {
         "backgroundImage": "assets/images/ctav4.jpg", 
-        "title": "Watch the video",
-        "subtitle": "to see how our readers love it.",
-        "text": "Still have any doubts? Check the free chapter to get an idea.", 
-        "btnText": "Free chapters",
+        "title": "Watch the Video",
+        "subtitle": "See How Our Readers Love It",
+        "text": "Still have doubts? Check out a free chapter to get a glimpse of the book.",
+        "btnText": "Read Free Chapters",
         "videoURL": "https://www.youtube.com/watch?v=ksImBkJNQt8"
     }
-    
 }

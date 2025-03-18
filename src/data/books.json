@@ -1,6 +1,6 @@
 {
     "books": {
-        "title": "Latest released books", 
+        "title": "Latest Released Books", 
         "subtitle": "BOOKS",
         "image1": "assets/images/book.png",
         "image2": "assets/images/book3.png", 
@@ -9,22 +9,22 @@
     },
     "booksv2": {
         "title": "Books",
-        "subtitle": "Some of recent released books",
+        "subtitle": "Some Recently Released Books",
         "booksItem": [
             {
                 "title": "The King",
                 "image": "assets/images/chapter-preview/cover-1.jpg"    
             },
             {
-                "title": "Death & Dark",
+                "title": "Death & Darkness",
                 "image": "assets/images/chapter-preview/cover-2.jpg"
             },
             {
-                "title": "Return Gen Z",
+                "title": "Return of Gen Z",
                 "image": "assets/images/chapter-preview/cover-3.jpg"
             },
             {
-                "title": "Sign Souls",
+                "title": "Sign of Souls",
                 "image": "assets/images/chapter-preview/cover-1.jpg"
             },
             {
@@ -32,11 +32,11 @@
                 "image": "assets/images/chapter-preview/cover-2.jpg"
             },
             {
-                "title": "Worst Letter",
+                "title": "The Worst Letter",
                 "image": "assets/images/chapter-preview/cover-3.jpg"
             },
             {
-                "title": "Drug Lord",
+                "title": "The Drug Lord",
                 "image": "assets/images/chapter-preview/cover-1.jpg"
             },
             {
@@ -46,5 +46,3 @@
         ]
     }
 }
-
-

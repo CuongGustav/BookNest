@@ -1,9 +1,9 @@
 {
     "ctav5": {
         "backgroundImage": "assets/images/ctav5.jpg",
-        "title": "The book has 90900+ readers",
-        "text1": "Readers reviews",
-        "text2": "is self explanatory 5/5",
+        "title": "This Book Has Over 90,900 Readers",
+        "text1": "Reader Reviews",
+        "text2": "A must-read! 5/5",
         "icon": "assets/icons/star.svg"
-        }
+    }
 }

@@ -1,10 +1,10 @@
 {
     "herov1": {
         "subtitle": "LET'S MAKE THE BEST INVESTMENT",
-        "title": "There Is No Friend As Loyal As A Book",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad harum quibusdam, assumenda quia explicabo.",
+        "title": "There Is No Friend as Loyal as a Book",
+        "description": "Books open the door to knowledge, imagination, and endless possibilities. Discover your next great read today!",
         "image": "assets/images/hero.png",
         "tagTitle": "NY",
-        "tagText": "best seller"
+        "tagText": "Best Seller"
     }
 }

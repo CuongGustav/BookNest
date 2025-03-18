@@ -1,34 +1,33 @@
 {
     "achieve": {
-        "subtitle": "WHY WONTED?",
-        "title": "What you'll achieve by this book",
+        "subtitle": "WHY CHOOSE WONTED?",
+        "title": "What You'll Achieve with This Book",
         "image": "assets/images/achive2.jpg",
         "achieveItem": [
             {
                 "id": 1,
                 "icon": "assets/icons/ebook.svg",
                 "title": "Experience",
-                "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor fugit piatur"
+                "description": "Gain valuable insights and knowledge that will broaden your perspective."
             },
             {
-                "id": 1,
+                "id": 2,
                 "icon": "assets/icons/dice-multiple.svg",
                 "title": "Motivation",
-                "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor fugit piatur"
+                "description": "Find inspiration and encouragement to overcome challenges in life."
             },
             {
-                "id": 1,
+                "id": 3,
                 "icon": "assets/icons/goal.svg",
                 "title": "Goals",
-                "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor fugit piatur"
+                "description": "Learn how to set and achieve meaningful personal and professional goals."
             },
             {
-                "id": 1,
+                "id": 4,
                 "icon": "assets/icons/brand-target.svg",
                 "title": "Vision",
-                "description": "Lorem ipsum dolor sit amet ametus conso tetur ading elitor fugit piatur"
+                "description": "Develop a clearer vision for your future and make more informed decisions."
             }
         ]
     }
-    
 }

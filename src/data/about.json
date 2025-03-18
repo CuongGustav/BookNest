@@ -1,26 +1,26 @@
 {
-    "aboutv2":{
-        "title": "Learn about the book writer",
-        "subtitle": "ABOUT AUTHOR",
+    "aboutv2": {
+        "title": "Learn About the Book Writer",
+        "subtitle": "ABOUT THE AUTHOR",
         "image": "assets/images/achive.png",
         "videoURL": "https://www.youtube.com/watch?v=ksImBkJNQt8",
-        "description": "Based on wikipedia, Lorem ipsum dolor sit amet consectetur adipisicing elit",
-        "userinfo":[
+        "description": "According to Wikipedia, this book delves into profound thoughts and emotions, offering readers a deeper understanding of the author's perspective.",
+        "userinfo": [
             {
                 "title": "Name:",
                 "subtitle": "Jacob Thomas"
             },
             {
                 "title": "Born:",
-                "subtitle": "05. 16. 1992"
+                "subtitle": "May 16, 1992"
             }, 
             {
                 "title": "Country:",
-                "subtitle": "Viet Nam"
+                "subtitle": "Vietnam"
             },
             {
                 "title": "Email ID:",
-                "subtitle": "infor@wonted.com"
+                "subtitle": "info@wonted.com"
             },
             {
                 "title": "Languages:",
@@ -28,10 +28,8 @@
             },
             {
                 "title": "Address:",
-                "subtitle": "K58/10 Ngô Sỹ Liên, Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng"
+                "subtitle": "K58/10 Ngo Sy Lien, Hoa Khanh Bac, Lien Chieu, Da Nang"
             }
-
         ]
     }
-    
 }

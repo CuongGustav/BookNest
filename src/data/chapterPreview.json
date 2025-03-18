@@ -1,58 +1,58 @@
 {
-    "chapterPreview":{
+    "chapterPreview": {
         "title": "Chapter Preview",
-        "subtitle": "Read some chapter free",
-        "chapters":[
+        "subtitle": "Read Some Chapters for Free",
+        "chapters": [
             {
-                "image":"/assets/images/chapter-preview/1.jpg",
+                "image": "/assets/images/chapter-preview/1.jpg",
                 "title": "The Beginning",
-                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
-                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+                "text1": "A journey begins with a single step, leading into the unknown.",
+                "text2": "The protagonist embarks on a quest filled with challenges and surprises.",
+                "text3": "Each moment is a turning point, shaping the story’s course.",
+                "text4": "Unexpected encounters bring new perspectives and revelations.",
+                "text5": "A chapter of discovery, setting the stage for what’s to come."
             },
             {
-                "image":"/assets/images/chapter-preview/2.jpg",
+                "image": "/assets/images/chapter-preview/2.jpg",
                 "title": "Main Story",
-                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
-                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+                "text1": "The heart of the story unfolds, revealing deeper layers.",
+                "text2": "Tensions rise as conflicts emerge between key characters.",
+                "text3": "Themes of love, betrayal, and resilience intertwine.",
+                "text4": "A test of willpower challenges the protagonist’s beliefs.",
+                "text5": "The journey takes an unexpected turn, reshaping destiny."
             },
             {
-                "image":"/assets/images/chapter-preview/3.jpg",
-                "title": "Story Part-03",
-                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
-                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+                "image": "/assets/images/chapter-preview/3.jpg",
+                "title": "Story Part 3",
+                "text1": "Mysteries deepen as secrets come to light.",
+                "text2": "Relationships are tested, and alliances shift.",
+                "text3": "The protagonist faces their greatest challenge yet.",
+                "text4": "Past and present collide in a shocking revelation.",
+                "text5": "A crucial decision changes everything forever."
             },
             {
-                "image":"/assets/images/chapter-preview/4.jpg",
-                "title": "Description Part-04",
-                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
-                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+                "image": "/assets/images/chapter-preview/4.jpg",
+                "title": "Description Part 4",
+                "text1": "The world within the story grows richer with every detail.",
+                "text2": "Symbolism and hidden meanings add depth to the narrative.",
+                "text3": "Characters evolve, revealing new facets of their personalities.",
+                "text4": "Every action has a consequence, shaping the final outcome.",
+                "text5": "A chapter that connects past events with future possibilities."
             },
             {
-                "image":"/assets/images/chapter-preview/5.jpg",
-                "title": "Story No:05",
-                "text1": "Dpsum vehicula eros ultrices lacinia Vestibulum ante ipsum primis in", 
-                "text2": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text3": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text4": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui",
-                "text5": "Primis pharetra facilisis lorem quis penatibus ad nulla inceptos, dui"
+                "image": "/assets/images/chapter-preview/5.jpg",
+                "title": "Story No. 5",
+                "text1": "The climax nears, and the stakes have never been higher.",
+                "text2": "Choices made now will define the story’s conclusion.",
+                "text3": "Unexpected twists keep the reader on edge.",
+                "text4": "Moments of reflection bring emotional weight to the journey.",
+                "text5": "A powerful ending is just around the corner."
             }
         ]
     },
     "chapterPreview2": {
         "title": "Chapter Preview",
-        "subtitle": "Read some chapter free",
+        "subtitle": "Read Some Chapters for Free",
         "chapters": [
             {
                 "title": "Chapter 1",
@@ -74,12 +74,6 @@
                 "title": "Chapter 5",
                 "image": "assets/images/chapter-preview/5.jpg"
             }
-
         ]
     }
-        
-            
-   
-
-
 }
